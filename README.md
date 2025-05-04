@@ -1,0 +1,2 @@
+# FRX
+Fikrix Ecosystem
